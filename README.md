@@ -66,10 +66,4 @@ Here's a brief overview of the main components in the code:
 
 This component is responsible for rendering individual cards, handling user interactions, and displaying whether a card is flipped or matched.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you have improvements or fixes.
